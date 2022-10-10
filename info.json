@@ -1,0 +1,24 @@
+{
+  "name": "Alexis Herrera",
+  "website": "aeherrer71.github.io",
+  "linkedin": "https://www.linkedin.com/in/alexis-herrera-bb7b72169/",
+  "github": "aeherrer71",
+  "email": "aeherrer71@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Spanish",
+      "Security Professional"
+  ]
+}
